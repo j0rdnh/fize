@@ -1,0 +1,16 @@
+{
+  "name": "fize",
+  "description": "FiZe: FILO + ZENPOND",
+  "version": "0.1.0",
+  "homepage": "http://www.fize.club",
+  "bugs": {
+    "email": "info@fize.club"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jordan Hauser (FILO)",
+    "url": "http://www.jhauser.com",
+    "email": "jordan@jhauser.com"
+  },
+  "main": "index.html"
+}
