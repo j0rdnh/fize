@@ -15,5 +15,6 @@
   "main": "index.html",
   "dependencies": {
     "vue": "^2.6.2"
-  }
+  },
+  "repository": "github:j0rdnh/FiZe"
 }
