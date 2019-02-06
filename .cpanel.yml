@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/jhause5/fize.club/
+    - /bin/cp header.php $DEPLOYPATH
+    - /bin/cp index.php $DEPLOYPATH
+    - /bin/cp -R images/* $DEPLOYPATH/images/
+    - /bin/cp -R styles/* $DEPLOYPATH/styles/
