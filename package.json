@@ -12,5 +12,6 @@
     "url": "http://www.jhauser.com",
     "email": "jordan@jhauser.com"
   },
-  "main": "index.html"
+  "main": "index.html",
+  "repository": "github:j0rdnh/FiZe"
 }
